@@ -1,3 +1,5 @@
+This is a clone of the Jekyll Leaf theme by Supun Kavinda.
+
 # jekyll-theme-leaf
 
 👇👇
