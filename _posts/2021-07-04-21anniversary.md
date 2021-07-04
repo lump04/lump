@@ -10,6 +10,8 @@ Happy 21st anniversary to my beloved SOUND極ROAD.
 
 This the transcription and translation of the [UVERworld 21st Anniversary Live Stream](https://www.youtube.com/watch?v=qYJBS-HPcxY) on Youtube. Unfortunately, it seems that they're taking the video down soon.
 
+I've only done the part where they chat and field questions, so this transcription starts at around 35.17.
+
 ## Disclaimer
 
 I'm doing this quicker since the video is up for a limited time only, but this means that the translation is looser. I've also dropped some fillers and overlapping conversations.
