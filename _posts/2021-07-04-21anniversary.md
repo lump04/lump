@@ -564,11 +564,8 @@ TAKUYA: it was the first time we did it, right?
 AKIRA: ね。<br/>
 AKIRA: Right?
 
-TAKUYA: 凄い俺もう怖がるでも言うのにハマり。<br/>
-TAKUYA: I was really scared but despite that I got sucked into it*.
-
-*Couldn't catch some stuff in between.<br/>
-
+TAKUYA: 凄いで俺もう怖がるでも言うのにハマり。<br/>
+TAKUYA: It was amazing and I was scared but despite that I got sucked into it.
 
 TAKUYA: もうハマっちゃって、<br/>
 TAKUYA: I really got interested in it,
