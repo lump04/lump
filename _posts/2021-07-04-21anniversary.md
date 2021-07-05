@@ -304,7 +304,7 @@ SHINTARO: 21年前の頃からも全然変わってないし、<br/>
 SHINTARO: they haven't changed since 21 years ago.
 
 SHINTARO: どんな存在かももう、普段考えへんぐらいの当たり前なんで。<br/>
-SHINTARO: If it comes to what kind of existence it is, it's something that is so obvious I don't usually think about.
+SHINTARO: If it comes to what kind of existence it is, it's something that is so obvious that I don't usually think about it.
 
 SHINTARO: 大事な存在ですけどね。<br/>
 SHINTARO: It's an important existence though.
@@ -520,7 +520,7 @@ KATSUYA: 若っ！<br/>
 KATSUYA: That's young!
 
 TAKUYA: 俺今と同じ格好してんの何か。全然変わってない<br/>
-TAKUYA: I dressed the same as I do now, somehow. I didn't change at all.
+TAKUYA: I dressed the same as I do now, somehow. I haven't changed at all.
 
 SHINTARO: 多分僕も見に<br/>
 SHINTARO: I probably went to see too.
@@ -892,7 +892,7 @@ KATSUYA: だんだんだんだん大人になるに連れて、<br/>
 KATSUYA: as we gradually became adults,
 
 KATSUYA: 辞めていく人が多いなんか、俺らが残ってて。<br/>
-KATSUYA: there were many who quit, so we werw left.
+KATSUYA: there were many who quit, so we were left.
 
 KANTA: ありがとうございます。<br/>
 KANTA: Thank you very much.
