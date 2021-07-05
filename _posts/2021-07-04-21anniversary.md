@@ -346,7 +346,7 @@ TAKUYA: これは？<br/>
 TAKUYA: What about this?
 
 KATSUYA: それ行けるや！<br/>
-KAYSUYA: That's OK!
+KATSUYA: That's OK!
 
 KANTA: 行けるやつは行きたいですね。<br/>
 KANTA: Let's go with the ones that can be shown.
