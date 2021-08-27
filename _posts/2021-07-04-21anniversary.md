@@ -49,7 +49,7 @@ KANTA: 皆さんの質問を僕から、いくつか投げさせて頂くと思�
 KANTA: so I shall pose your questions to UVERworld.
 
 KANTA: なんでね、今もどんどん質問を打って頂けると僕は拾えるようにしておくんで、<br/>
-KANTA: That's why, we've set it up such that if you enter you questions now, I can pick them up, so
+KANTA: That's why, we've set it up such that if you enter your questions now, I can pick them up, so
 
 KANTA: よろしくお願いいたします。<br/>
 KANTA: thank you for your co-operation.
@@ -58,7 +58,7 @@ KANTA: じゃ、早速、一つ目の質問から行かせて頂きます。<br/
 KANTA: So, without further ado, let me start with the first question.
 
 KANTA: ズバリ21周年を迎えて皆さんに取ってUVERworldはどんな存在ですか。<br/>
-KANTA: Frankly speaking, what kind of existence is UVERworld, which is welcoming its 21st year, to you?
+KANTA: Frankly speaking, what kind of existence is UVERworld, which is welcoming its 21st anniversary, to you?
 
 KANTA: 誰から行きますか?どうしますか？どうですか？真太郎さんは？<br/>
 KANTA: Who shall we start with? How shall we do it? What do you think, Shintaro-san?
@@ -133,7 +133,7 @@ KANTA: どうですかね？難しい？大きく過ぎて？<br/>
 KANTA: What do you think? It's difficult? Too big a question?
 
 NOBUTO: いや大きいというか、コイツらみたいな。<br/>
-NOBUTO: Well, rather than big, it's more like, it's them.
+NOBUTO: Well, rather than big, it's more like, it's these guys.
 
 KANTA: ああそうなんです。でも今もこの関係でマリオカートしてるって凄いですよね。<br/>
 KANTA: Ah, I see. But having such relationships until now, to be able to play Mario Kart together, is something else.
@@ -208,7 +208,7 @@ TAKUYA: みんなに懐かしい写真ない？みたいな感じでグループ
 TAKUYA: So I asked everyone over the group chat, 'Do you guys have nostalgic photos?'
 
 TAKUYA: でみんなで送り合ってんけど、とんでもないもんが出て来て。<br/>
-TAKUYA: So we sent them to each other, but some really out there stuff came out.
+TAKUYA: So we sent them to each other, but some really out-there stuff came out.
 
 TAKUYA: 凄い歴史あるなと思って、でもやっぱり、全て楽しかったから、<br/>
 TAKUYA: I thought, they've got some history. But at the end of the day, everything was fun, so
@@ -265,7 +265,7 @@ KATSUYA: 全部アカンやろ？<br/>
 KATSUYA: We can't show any of them, right?
 
 KANTA: 全部アカンやって<br/>
-KANTA: They're all not all right?!
+KANTA: They're all no good?!
 
 TAKUYA: 無理やな。<br/>
 TAKUYA: I can't show this.
@@ -304,7 +304,7 @@ SHINTARO: 21年前の頃からも全然変わってないし、<br/>
 SHINTARO: they haven't changed since 21 years ago.
 
 SHINTARO: どんな存在かももう、普段考えへんぐらいの当たり前なんで。<br/>
-SHINTARO: If it comes to what kind of existence it is, it's something that is so obvious I don't usually think about.
+SHINTARO: If it comes to what kind of existence it is, it's something that is so obvious that I don't usually think about it.
 
 SHINTARO: 大事な存在ですけどね。<br/>
 SHINTARO: It's an important existence though.
@@ -346,7 +346,7 @@ TAKUYA: これは？<br/>
 TAKUYA: What about this?
 
 KATSUYA: それ行けるや！<br/>
-KAYSUYA: That's OK!
+KATSUYA: That's OK!
 
 KANTA: 行けるやつは行きたいですね。<br/>
 KANTA: Let's go with the ones that can be shown.
@@ -367,7 +367,7 @@ KANTA: ヤバイやつはちょっと、全然、事故になるかもしれな�
 KANTA: It's OK to not show the ridiculous ones; we may get into trouble otherwise.
 
 TAKUYA: これ見せたいな俺。衝撃じゃない？<br/>
-TAKUYA: I want to shou this. Shocking, isn't it?
+TAKUYA: I want to show this. Shocking, isn't it?
 
 KATSUYA: 衝撃やな。説明しないと分からない。<br/>
 KAYSUYA: It's shocking. We'd have to explain, otherwise they wouldn't get it.
@@ -481,7 +481,7 @@ TAKUYA: 始めて、元々俺はドラマーとして、バンド組んでて、
 TAKUYA：I was originally a drummer when I first joined a band.
 
 TAKUYA: でもその、知り合いの文化祭やんな？<br/>
-TAKUYA: But at an acquaintance's cultural festival, was it.
+TAKUYA: But at an acquaintance's cultural festival, was it?
 
 AKIRA: 何か卒業<br/>
 AKIRA: Kind of, a graduation
@@ -505,7 +505,7 @@ KATSUYA: 俺これ見に行ったわ、こん時。<br/>
 KATSUYA: I went to see this show, at the time.
 
 KANTA: 見に行ったんですか？<br/>
-KANTA: You did.
+KANTA: You did?
 
 KATSUYA: 見に行った、これ。<br/>
 KATSUYA: I did, this show.
@@ -520,7 +520,7 @@ KATSUYA: 若っ！<br/>
 KATSUYA: That's young!
 
 TAKUYA: 俺今と同じ格好してんの何か。全然変わってない<br/>
-TAKUYA: I dressed the sam as I do now, somehow. I didn't change at all.
+TAKUYA: I dressed the same as I do now, somehow. I haven't changed at all.
 
 SHINTARO: 多分僕も見に<br/>
 SHINTARO: I probably went to see too.
@@ -534,14 +534,14 @@ TAKUYA: That was the first time I saw Shintaro.
 AKIRA: これヤバくないですか。<br/>
 AKIKA: Isn't this terrible?
 
-AKIRA: この時まだ俺多分、緊張してるな。<br/>
-AKIRA: At that time, I was probably still nervous.
+AKIRA: この時まだ俺多分初役に緊張してるな。<br/>
+AKIRA: At that time, I was probably still nervous about my very first role.
 
 KANTA: 何でそういう経緯になったんですか。<br/>
 KANTA: How did this happen?
 
 TAKUYA: 何かあの、マイナーリーグというグループがあって、<br/>
-TAKUYA: Well, there's this bamd called Minor League,
+TAKUYA: Well, there's this band called Minor League.
 
 TAKUYA: コアのバンド。知る人ぞ知るというバンドで、<br/>
 TAKUYA: It's a band with a cult following.
@@ -670,7 +670,7 @@ KANTA: 面白いんで続きましょうそれは。<br/>
 KANTA: It's interesting, so let's continue this.
 
 KANTA: 始めに質問戻せてやらせてもうOKになった。<br/>
-KANTA: At first they were asking me to go back to the questions, but they're OK with tjis now.
+KANTA: At first they were asking me to go back to the questions, but they're OK with this now.
 
 SHINTARO: 何か違う質問いいんよね。<br/>
 SHINTARO: We could move on to another question, right?
@@ -787,7 +787,7 @@ KATSUYA: 楽しかったな。<br/>
 KATSUYA: That was fun.
 
 TAKUYA: コメント読んでよう？何か面白いのいったら、出すわ。<br/>
-TAKUYA: Let's read the comments? If there's anything interestin, I'll put it up.
+TAKUYA: Let's read the comments? If there's anything interesting, I'll put it up.
 
 KANTA: ちょっとコメントね、せっかく皆さん送ってくださってるんで、<br/>
 KANTA: I'll just read a few comments
@@ -850,13 +850,13 @@ KANTA: UVERworldさんってどういう経緯で組む事になられたのっ�
 KANTA: What is the process by which UVERworld was formed?
 
 NOBUTO: そういうの知られた結構いいのかな。<br/>
-NOBUTO: This stuff is quite well-known; is it all right?
+NOBUTO: This stuff is quite well known; is it all right?
 
 KANTA: 今は一応聞いたので。ま、crewはもう知ってますよね。<br/>
 KANTA: Well, they did ask. But it's true that crew would already know.
 
 KATSUYA: TAKUYA∞と信人が幼馴染みで、<br/>
-KATSUYA: Takuya and Nobuto are child-hood friends,
+KATSUYA: Takuya and Nobuto are childhood friends,
 
 KATSUYA: TAKUYA∞が幼稚園から保育園に行った先が、で俺と出会って、<br/>
 KATSUYA: and when Takuya moved from kindergarten to nursery school, he met me there.
@@ -874,7 +874,7 @@ KANTA: そうですよね。<br/>
 KANTA: That's right.
 
 KATSUYA: 真太郎以外は本当に徒歩10分圏内、実家が。<br/>
-KATSUYA: Other than Shintaro, all of us were within 10 minutes walking distance from each other. Our houses back home, that is.
+KATSUYA: Other than Shintaro, all of us were within 10 minutes' walking distance from each other. Our houses back home, that is.
 
 NOBUTO: 彰とか中学校の後輩で、普通に。<br/>
 NOBUTO: Akira somehow was a student at my secondary school, as it happens.
@@ -892,7 +892,7 @@ KATSUYA: だんだんだんだん大人になるに連れて、<br/>
 KATSUYA: as we gradually became adults,
 
 KATSUYA: 辞めていく人が多いなんか、俺らが残ってて。<br/>
-KATSUYA: there were many who quit, so we werw left.
+KATSUYA: there were many who quit, so we were left.
 
 KANTA: ありがとうございます。<br/>
 KANTA: Thank you very much.
