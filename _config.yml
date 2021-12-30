@@ -1,6 +1,6 @@
 title: LUMP OF AFFECTION `04
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+remote_theme: SupunKavinda/jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
@@ -12,6 +12,7 @@ permalink: :slug
 plugins:
 # - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
 
 #### comments & analytics
 #hyvor_talk_website_id: 14
