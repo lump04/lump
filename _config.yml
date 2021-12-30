@@ -1,6 +1,8 @@
 title: LUMP OF AFFECTION `04
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
+baseurl: "/lump"
+url: "https://lump04.github.io"
 
 # for a clean URL
 permalink: :slug
