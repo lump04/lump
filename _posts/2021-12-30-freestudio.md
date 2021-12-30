@@ -18,7 +18,7 @@ K - Katsuya
 
 Staff - An unseen woman whom I think is a member of staff.
 
-**(That's me. Sometimes I narrate actions or provide context, or even commentary)**
+**(Bold text in this format is me. Sometimes I narrate actions or provide context, or even commentary)**
 
 ## Notes
 
