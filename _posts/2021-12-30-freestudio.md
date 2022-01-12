@@ -6,7 +6,7 @@ title: FREE STUDIO - Part 1
 
 ## Description
 
-This is the transcription and translation of the [MBS FREE STUDIO talk show](https://www.mbs.jp/freestudio/) that was streamed live on YouTube on 17th December. It seems that the video was not kept on the site after the stream.
+This is the transcription and translation of the [MBS FREE STUDIO talk show](https://www.mbs.jp/freestudio/) that was streamed live on YouTube on 17th December. It seems that the video was not kept on the site after the stream. A cut-and-edited version is available [here](https://tver.jp/corner/f0095036) for a limited period, until 19th January. This video seems to be regionally-locked to Japan only.
 
 ## Legend
 
@@ -1601,10 +1601,9 @@ in fact if you slice off just this part, it's really, kind of, extemely,
 
 you'll go, 'What a heart-wrenching melody!' 'So sad!'
 
-だからまた歌い掛ける(?)ものがあって。
+だからまた訴えかけるものがあって。
 
-That's why **(sorry again couldn't catch)**
-
+That's another reason it appeals to you (to do something).
 
 じゃ、ちょっ、いいですか。じゃいいですか。
 
@@ -3608,6 +3607,8 @@ top 3, right? Isn't that great?
 じゃ、次行こうか。ね、次の。どうしようかな。
 
 Then, let's go to the next one, shall we?  The next. What should I go with?
+
+## Footnotes
 
 [^1]: Live houses, small bar-like venues where you can hear live music.
 
