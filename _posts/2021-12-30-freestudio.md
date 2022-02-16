@@ -18,7 +18,7 @@ K - Katsuya
 
 Staff - An unseen woman whom I think is a member of staff.
 
-**(Bold text in this format is me. Sometimes I narrate actions or provide context, or even commentary)**
+<span style="color:lemonchiffon">**(Bold text in this format is me. Sometimes I narrate actions or provide context, or even commentary)**</span>
 
 ## Notes
 
@@ -34,7 +34,33 @@ The host Kiyo-san makes a lot of jokes and is very responsive. Getting angry and
 
 I'm thinking of splitting this talk show into three parts, but this first one has been a lot of work, so I'll probably think of ways to scrimp on the effort.
 
+## Contents
+
+1. [Introduction](#introduction)
+
+1. [Praises for TAKUYA∞ and Katsuya](#praises-for-takuya-and-katsuya)
+
+1. [Introduction to the Talk Show Format](#introduction-to-the-talk-show-format)
+
+1. [On TAKUYA∞'s Infinity Sign](#on-takuyas-infinity-sign)
+
+1. [More on the Talk Show Format](#more-on-the-talk-show-format)
+
+1. [On Lyric-Writing](#on-lyric-writing)
+
+1. [On 'EN'](#on-en)
+
+1. [On the Name 'UVERworld'](#on-the-name-uverworld)
+
+1. [On Memorable Lyrics](#on-memorable-lyrics)
+
+1. [TAKUYA∞ and Katsuya's Top 3 Oden Ingredients](#takuya-and-katsuyas-top-3-oden-ingredients)
+
+1. [TAKUYA∞ and Katsuya's Top 3 Concert Venues](#takuyaand-katsuyas-top-3-concert-venues)
+
 ## Transcription/Translation
+
+### Introduction
 
 S:
 
@@ -253,6 +279,8 @@ T:
 ありがとうございます。
 
 Thank you very much.
+
+### Praises for TAKUYA∞ and Katsuya
 
 S:
 
@@ -660,7 +688,9 @@ K:
 
 いやいやいやいや、結構呼ぶ（？）よ。
 
-No, no, no, it's quite **(sorry couldn't catch it)**.
+No, no, no, it's quite <span style="color:lemonchiffon">**(sorry couldn't catch it)**</span>.
+
+### Introduction to the Talk Show Format
 
 S:
 
@@ -682,7 +712,7 @@ S:
 
 頑張るかいて（？）ください、頑張る。
 
-**(Something about doing their best, sorry couldn't catch)**
+<span style="color:lemonchiffon">**(Something about doing their best, sorry couldn't catch)**</span>
 
 もう、ヨギボーに座ってるって思って頑張ってください。
 
@@ -778,7 +808,7 @@ today, you can ask the two of them some amazing questions.
 
 TAKUYA∞さんの隣の何、エイトみたいなやつ。
 
-'The thing beside TAKUYA-san, that resembles 'eight'.
+'The thing beside TAKUYA∞-san, that resembles 'eight'.
 
 あれはどういう意味なんですかとかね。
 
@@ -801,6 +831,8 @@ T:
 あ。
 
 Ah.
+
+### On TAKUYA∞'s Infinity Sign
 
 S:
 
@@ -1021,6 +1053,8 @@ K:
 
 (Laughs) I wonder. But it doesn't fit, does it?
 
+### More on the Talk Show Format
+
 S:
 
 合わないですね。そのアンバランスさが良いかも分かんないですね。
@@ -1215,7 +1249,7 @@ Um, as for this, this is our ace! That's how it was introduced by the staff.
 
 この質問が、一番この番組で跳ねるんで。
 
-Since this is the most erratic question in the show. **(This one's hard to translate. They mean it would solicit the most unpredictable responses.)**
+Since this is the most erratic question in the show. <span style="color:lemonchiffon">**(This one's hard to translate. They mean it would solicit the most unpredictable responses.)**</span>
 
 K:
 
@@ -1254,6 +1288,8 @@ K:
 大っきの見た事ないですけどね。
 
 I've never actually seen a big one though.
+
+### On Lyric-Writing
 
 S:
 
@@ -1449,7 +1485,7 @@ That's right. Um, that's why,
 
 今間もなくアルバムも出すんですけど、
 
-currently, we're soon about to relase an album,
+currently, we're soon about to release an album,
 
 その一曲目の「EN」と言う曲は、去年からやってるんですけど、
 
@@ -1470,6 +1506,8 @@ since we have a release date,
 ま、一年間掛けて作った曲って言うことですね。
 
 well, you could say it was a song that took a year to be created.
+
+### On 'EN'
 
 S：
 
@@ -1559,7 +1597,7 @@ I'm sorry, I hope all of you are still alive, right?
 
 まあいいや。
 
-Well is's fine.
+Well it's fine.
 
 言いたい事があるから、言うちゃうよ、それね。
 
@@ -1703,7 +1741,7 @@ We only had this one.
 
 サビも、全文（？）も、
 
-The chorus too, and the full text **(not so sure about this)** too,
+The chorus too, and the full text <span style="color:lemonchiffon">**(not so sure about this)**</span> too,
 
 実は歌詞一年間掛けてって言いましたけど、
 
@@ -1763,7 +1801,7 @@ the booth, um, it has two layers of doors, but
 
 喉TM（？）のちゃうかぐらい叫んでて、
 
-he screamed until I worried that his throat might have **(I have absolutely no idea for this one. Surely it can't be 'TM')**.
+he screamed until I worried that his throat might have <span style="color:lemonchiffon">**(I have absolutely no idea for this one. Surely it can't be 'TM')**</span>.
 
 ここの歌歌うに。
 
@@ -1821,7 +1859,7 @@ Through that booth door?
 
 もう皆さん知らないかもしれない、もう、
 
-I think you guys might not understand, but,
+I think you guys <span style="color:lemonchiffon">**(the audience)**</span> might not understand, but,
 
 一人だけの大変なぐらいのやつが二枚あった、
 
@@ -1861,11 +1899,13 @@ K：
 
 Right? That's true.
 
+### On the Name 'UVERworld'
+
 S：
 
 ちょっとじゃ、みんな、来た。え...
 
-So let's...everyone...they **(the messages)** have arrived. Hm...
+So let's...everyone...they <span style="color:lemonchiffon">**(the messages)**</span> have arrived. Hm...
 
 UVERworld. ウーバーってね、みんなね、あれだからね、
 
@@ -1924,6 +1964,8 @@ K：
 はい。びっくりしました。
 
 Indeed. That gave me a shock.
+
+### On Memorable Lyrics
 
 S：
 
@@ -2038,7 +2080,7 @@ S：
 
 I'm really happy! I'm about to cry!
 
-**(Now, now, make any more fun of Takuya and he'd never warm up to you again. Stop it.)**
+<span style="color:lemonchiffon">**(Now, now, make any more fun of Takuya and he'd never warm up to you again. Stop it.)**</span>
 
 克哉さんがそれをフォローしてくれるのまた嬉しい！ 暖かい、これ！
 
@@ -2684,6 +2726,8 @@ T:
 
 'Borrowed cat,' they say. So noisy.
 
+### TAKUYA∞ and Katsuya's Top 3 Oden Ingredients
+
 S:
 
 こういうのと同じタッグいいですね（？）。はい。皆さん考えてね。
@@ -2842,7 +2886,7 @@ T:
 
 え。そうなんですね。剛、分かんなかった（？）ですね。
 
-Right. That's how it is. Gou, I didn't know that **(not sure about this sentence)**.
+Right. That's how it is. Gou, I didn't know that <span style="color:lemonchiffon">**(not sure about this sentence)**</span>.
 
 K:
 
@@ -2922,6 +2966,8 @@ K:
 
 Seems like we're indeed limited to three.
 
+### TAKUYA∞ and Katsuya's Top 3 Concert Venues
+
 S:
 
 そうですか。皆さん、そういう事なんですよ。ね。
@@ -2932,9 +2978,9 @@ Is that so? Guys, that's how it is, all right?
 
 Then, come on, it doesn't really matter what your top 3 is, in that case.
 
-思い出のライブ場所。これはでも**(couldn't catch)**ほどやってるでしょう。
+思い出のライブ場所。これはでも<span style="color:lemonchiffon">**(couldn't catch)**</span>ほどやってるでしょう。
 
-A memorable concert venue. But that's...you've done so many that **(couldn't catch)**, haven't you.
+A memorable concert venue. But that's...you've done so many that <span style="color:lemonchiffon">**(couldn't catch)**</span>, haven't you.
 
 T:
 
@@ -3082,9 +3128,9 @@ I do as much as I can, and uh, I even change right in the middle of a performanc
 
 S:
 
-じゃ、本番中やりながら、ちょっと**(he mimes pressing buttons etc)**とか。
+じゃ、本番中やりながら、ちょっと<span style="color:lemonchiffon">**(he mimes pressing buttons etc)**</span>とか。
 
-Then, in the middle of a performance, you kind of **(he mimes pressing buttons etc)** and so on?
+Then, in the middle of a performance, you kind of <span style="color:lemonchiffon">**(he mimes pressing buttons etc)**</span> and so on?
 
 K:
 
@@ -3096,7 +3142,7 @@ S:
 
 でも、ありますよね。だって思わず（？）変わってくるしね、みんな。
 
-But, it's common right? I mean, **(something I can't catch)** changes as it goes right? Everyone.
+But, it's common right? I mean, <span style="color:lemonchiffon">**(something I can't catch)**</span> changes as it goes right? Everyone.
 
 K:
 
@@ -3128,7 +3174,7 @@ S:
 
 PAさん（？）大変だよね。いや、でも、超珍しいタイプですね。でしょう。
 
-It's tough being a PA **(not sure about this one)**, right? No but you're a rare type. Right?
+It's tough being a PA <span style="color:lemonchiffon">**(not sure about this one)**</span>, right? No but you're a rare type. Right?
 
 T:
 
@@ -3140,7 +3186,7 @@ S:
 
 普通上手くね、だって（？）
 
-You're beyond just skilful, I'm telling you. **(Not confident about the entire sentence)**
+You're beyond just skilful, I'm telling you. <span style="color:lemonchiffon">**(Not confident about the entire sentence)**</span>
 
 K:
 
@@ -3150,7 +3196,7 @@ What's more, when we were at Tokyo Dome, most recently, he was in fact singing r
 
 だから、ここと、そのスピーカーから出てくるので、
 
-You know, the sound comes from here **(the ears)** and the speakers, so
+You know, the sound comes from here <span style="color:lemonchiffon">**(the ears)**</span> and the speakers, so
 
 S:
 
@@ -3232,7 +3278,7 @@ S:
 
 そうですよね。この「スタン！」って言うのね、16（？）の裏で出なきゃとかね。
 
-Isn't that right? This 'sutan!' sound, you have to make sure it comes out from the back at 16 **(not sure about 16)** don't you?
+Isn't that right? This 'sutan!' sound, you have to make sure it comes out from the back at 16 <span style="color:lemonchiffon">**(not sure about 16)**</span> don't you?
 
 K:
 
@@ -3356,7 +3402,7 @@ S:
 
 いつも一番あの、客席から見ると右端かな。あの、「週刊武道」（？）て。
 
-I always, at the topmost, um, I think it's the right end from the seats. Um, it says 'Shuukan Budou' **(I think it's the name of a magazine, but not sure)**.
+I always, at the topmost, um, I think it's the right end from the seats. Um, it says 'Shuukan Budou' <span style="color:lemonchiffon">**(I think it's the name of a magazine, but not sure)**</span>.
 
 読んでみたいなって思うね。いつも気になるんですよね。
 
@@ -3376,7 +3422,7 @@ S:
 
 結構急降下ですよね。あれね。こうした急峻の感じは（？）
 
-It's quite a sudden drop isn't it? Something like that? How do you feel about this steepness? **(Not sure about this sentence)**
+It's quite a sudden drop isn't it? Something like that? How do you feel about this steepness? <span style="color:lemonchiffon">**(Not sure about this sentence)**</span>
 
 K:
 
@@ -3466,7 +3512,7 @@ K:
 
 ね。見る具（？）に本当にいいですもんね。
 
-Isn't that so? Since it's great for watching **(not sure about this part)**, right?
+Isn't that so? Since it's great for watching <span style="color:lemonchiffon">**(not sure about this part)**</span>, right?
 
 S:
 

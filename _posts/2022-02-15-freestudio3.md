@@ -18,6 +18,8 @@ T - Takuya∞
 
 K - Katsuya
 
+Staff - An unseen woman who's probably a member of staff
+
 <span style="color:lemonchiffon">**(Bold text in this format is my comments)**</span>
 
 ## Contents
@@ -45,6 +47,8 @@ K - Katsuya
 11. [TAKUYA∞ VS. Katsuya](#takuya-vs-katsuya)
 
 12. [On Album Release](#on-album-release)
+
+## Transcription/Translation
 
 ### On Movies
 
