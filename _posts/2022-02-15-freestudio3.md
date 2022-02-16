@@ -1100,7 +1100,7 @@ K: ね。一杯答えますよね。
 
 K: Wouldn't it? He'd say a tonne, wouldn't he?
 
-S: Is that so? いいとこ一杯あるんじゃないですか。
+S: いいとこ一杯あるんじゃないですか。
 
 S: Well, there are lots of good places, aren't there?
 
