@@ -14,7 +14,7 @@ Because of the length of this talk show, and to avoid confusion, I've reduced th
 
 S - MC Kiyozuka Shinya (also known as Kiyo)
 
-T - Takuya∞
+T - TAKUYA∞
 
 K - Katsuya
 

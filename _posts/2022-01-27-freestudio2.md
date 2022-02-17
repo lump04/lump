@@ -12,11 +12,11 @@ This is Part 2 of the transcription and translation of the [MBS FREE STUDIO talk
 
 S - MC Kiyozuka Shinya (also known as Kiyo)
 
-T - Takuya∞
+T - TAKUYA∞
 
 K - Katsuya
 
-**(Bold text in this format is me. Sometimes I narrate actions or provide context, or even commentary)**
+<span style="color:lemonchiffon">**(Bold text in this format is me. Sometimes I narrate actions or provide context, or even commentary)**</span>
 
 ## Notes
 
@@ -24,7 +24,29 @@ At parts I think the audio quality degraded, so it was hard to parse, and I even
 
 Nonetheless, this was funny too and Part 3 has some information that would probably be exciting to fans who are not in Japan..?
 
+## Contents
+
+1. [What Makes Katsuya Want To Hit TAKUYA∞](#what-makes-katsuya-want-to-hit-takuya)
+
+1. [What Makes Katsuya Think TAKUYA∞ is a Genius](#what-makes-katsuya-think-takuya-is-a-genius)
+
+1. [What Makes Katsuya Leader-Like to TAKUYA∞](#what-makes-katsuya-leader-like-to-takuya)
+
+1. [What TAKUYA∞ Thinks is Cool About Katsuya](#what-takuya-thinks-is-cool-about-katsuya)
+
+1. [On Breakfast](#on-breakfast)
+
+1. [UVERworld's Ability to Do Times Tables](#uverworlds-ability-to-do-times-tables)
+
+1. [TAKUYA∞ And Katsuya's Abilities to Take Public Transport](#takuya-and-katsuyas-abilities-to-take-public-transport)
+
+1. [On Favourite Beef Cuts](#on-favourite-beef-cuts)
+
+1. [On Birthday Memories](#on-birthday-memories)
+
 ## Transcription/Translation
+
+### What Makes Katsuya Want To Hit TAKUYA∞
 
 S: どうしようかな。
 
@@ -34,7 +56,7 @@ S: もうこんなにあったらギクシャクするから、これ。
 
 S: If we have these, it'll be awkward, this.
 
-**(He's holding on to the 'TAKUYA∞ vs Katsuya. The loser shall __. Compete in __!' card)**
+<span style="color:lemonchiffon">**(He's holding on to the 'TAKUYA∞ vs Katsuya. The loser shall __. Compete in __!' card)**</span>
 
 S: 「後で」って怒った風に言わないでよ！今じゃないだろうみたいな感じで。
 
@@ -266,7 +288,7 @@ K: I'm telling you, it's extreme indeed.
 
 S: 甘噛みを覚えれられてないよう（？）みたいです。
 
-S: It's like he doesn't remember play-biting you for fun. **(Not sure about this whole sentence.)**
+S: It's like he doesn't remember play-biting you for fun. <span style="color:lemonchiffon">**(Not sure about this whole sentence.)**</span>
 
 K: もう本気で噛んできますよ。だから嫌なんですよ。
 
@@ -304,9 +326,9 @@ S: ないです。ないです。
 
 S: Never, never.
 
-K: 俺後にも先にもコイツだけ**(Kacchan grips his own neck)**
+K: 俺後にも先にもコイツだけ
 
-K: Other than this guy, I've never in my life been **(Kacchan grips his own neck)**
+K: Other than this guy, I've never in my life been <span style="color:lemonchiffon">**(Kacchan grips his own neck)**</span>
 
 S: そしてそれが自分らしいと思ってんの怖いですね。
 
@@ -327,6 +349,8 @@ S: It's cute, isn't it? Even though it's tough being with him when he's like thi
 K: 殺人、殺人ですよ、もう。
 
 K: Come on, he's trying to kill me.
+
+### What Makes Katsuya Think TAKUYA∞ is a Genius
 
 S: 天才だなって思う所。
 
@@ -518,7 +542,7 @@ S: Came to buy gummies?
 
 T: あの、一時ハリボのグミハマ負ける（？）ですね。
 
-T: Um, at one point in time I was obsessed with Haribo gummies, you know. **(I'm unsure about he bit around 'obsessed')**
+T: Um, at one point in time I was obsessed with Haribo gummies, you know. <span style="color:lemonchiffon">**(I'm unsure about the bit around 'obsessed')**</span>
 
 S: 知らない、知らないです。TAKUYA∞さんといえど（？）知らないです。
 
@@ -626,7 +650,7 @@ S: That's also something else that's really rare. In a band, especially.
 
 S: だから凄いなと思いますね。順路がたがいてる（？）のはまた、いいですね。
 
-S: That's why I think it's amazing. You're **(something)** the common route once again. That's great, isn't it?
+S: That's why I think it's amazing. You're <span style="color:lemonchiffon">**(something)**</span> the common route once again. That's great, isn't it?
 
 S: 「みんな可愛いすぎる。」
 
@@ -715,6 +739,8 @@ K: No, it's that. I'm just his toy, that's really how it is.
 S: 確かに。
 
 S: That's true.
+
+### What Makes Katsuya Leader-Like to TAKUYA∞
 
 S: 「やっぱりコイツがリーダーらしい所」
 
@@ -830,7 +856,7 @@ S: Currently, it's really..., it's not just piano, this maze is, it's like the n
 
 S: もう銀河（？）の数ほどありますから、これを全部発掘のは勿論無理、
 
-S: it's as many as the Milky Way **(not sure but I think he means as many grains of sand as there are in the Milky Way?)**, so it's of course impossible to dig out every one of them,
+S: it's as many as the Milky Way <span style="color:lemonchiffon">**(not sure but I think he means as many grains of sand as there are in the Milky Way?)**</span>, so it's of course impossible to dig out every one of them,
 
 S: 一生掛かっても無理です。で、それの中で、どこにそれがあるかなっていうのも、
 
@@ -854,7 +880,7 @@ T: This round, there was a tonne of it.
 
 S: イラッとくるよね。それは。
 
-S: That makes you annoyed, doesn't it? **(To Kacchan)**
+S: That makes you annoyed, doesn't it? <span style="color:lemonchiffon">**(To Kacchan)**</span>
 
 K: 「これじゃないねん」って言うって、「な、お前やれや！」と思って。
 
@@ -900,7 +926,7 @@ T: 「違うの」って一言。
 
 T: a single sentence of 'That's not it'.
 
-**(I lost some of the stream here.)**
+<span style="color:lemonchiffon">**(I lost some of the stream here.)**</span>
 
 K: みんなが逃げるのね。他のメンバーが逃げるので。
 
@@ -957,6 +983,8 @@ S: Isn't it sly, running away?
 K: みんな好き勝手言うほう。
 
 K: Everyone just says whatever they like.
+
+### What TAKUYA∞ Thinks is Cool About Katsuya
 
 S: かっこいいなと思う所。
 
@@ -1148,7 +1176,7 @@ S: That long ago? Was it? The three of you? It sure is something, having known e
 
 T: そうです。合唱コンクールも俺が幼稚園の頃の俺の名前一首で（？）
 
-T: That's right. When we were running the choir contest too, in kindergarten I **(couldn't catch)**
+T: That's right. When we were running the choir contest too, in kindergarten I <span style="color:lemonchiffon">**(couldn't catch)**</span>
 
 T: 克哉が歌ってた写真とかもあるし。
 
@@ -1180,7 +1208,7 @@ S: Wow. Knowing each other for so long, even though it's not about being close,
 
 S: 兄弟や家族と一緒で、tsk, aiya, mehってなる事ないんですか。
 
-S: just like with your brothers or family, aren't there times where you'd go 'tsk, aiya, meh'? **(I enjoyed Kiyo-san unleashing a spew of non-Japanese interjections)**
+S: just like with your brothers or family, aren't there times where you'd go 'tsk, aiya, meh'? <span style="color:lemonchiffon">**(I enjoyed Kiyo-san unleashing a spew of non-Japanese interjections)**</span>
 
 T: なくはないですけど、でももうそれも通り越した気するですね。
 
@@ -1188,7 +1216,7 @@ T: It's not that there weren't, but I feel that we've already gone past that.
 
 S: それも越した。それは本当にでも、縁ですね。今「EN」、ね。
 
-S: You're past even that. That's really affinity **(pronounced as 'en')** though, isn't it? I just said 'EN', hey.
+S: You're past even that. That's really affinity <span style="color:lemonchiffon">**(pronounced as 'en')**</span> though, isn't it? I just said 'EN', hey.
 
 K: 掛かってるんですか。
 
@@ -1200,7 +1228,7 @@ S: Looks like I'm more excited than you.
 
 K: やっとしたら座布団持ってきますよね（？）
 
- **(Could not decipher this)**
+ <span style="color:lemonchiffon">**(Could not decipher this)**</span>
 
 S: スタッフ全員でこれも違うんだろう？いいだろう、褒めたら、別に。
 
@@ -1358,7 +1386,7 @@ K: Ah, that's right.
 
 S: それこそ行くバー（？）が使用したりして。
 
-S: We'd use a bar **(not sure. A LAN shop?)** and stuff in order to do that.
+S: We'd use a bar <span style="color:lemonchiffon">**(not sure. A LAN shop?)**</span> and stuff in order to do that.
 
 T: あ、どこか分かったですよもう。
 
@@ -1399,6 +1427,8 @@ K: He added 'self-proclaimed' and 'style', I see.
 S: そう。って書いてきました。
 
 S: That's right. That's what he wrote.
+
+### On Breakfast
 
 S: あ。えー。朝ご飯何食べましたか。朝ご飯食べるタイプですか。
 
@@ -1446,11 +1476,11 @@ S: Ah, you all went together.
 
 T: そこで、じんわり（？）蕎麦を食べて。
 
-T: And there, we leisurely **(not sure about this)** ate soba.
+T: And there, we leisurely <span style="color:lemonchiffon">**(not sure about this)**</span> ate soba.
 
 S: あ。純粋なね。とありのもう（？）蕎麦を食べてきたという。それがもう、今日。
 
-S: Ah. You're saying you ate purely **(something I couldn't catch)** soba and came here. That's for today.
+S: Ah. You're saying you ate purely <span style="color:lemonchiffon">**(something I couldn't catch)**</span> soba and came here. That's for today.
 
 S; え、夜は食べるんですか。
 
@@ -1542,7 +1572,7 @@ T: Um, today, so since our concert starts on the 20th,
 
 T: あのメンバーでそれぞれ送り合う想定を（？）。最終日やったんで、
 
-T: um, amongst the members of UVERworld, we have to send our predictions **(not sure about this)** to each other. It's the last day, so
+T: um, amongst the members of UVERworld, we have to send our predictions <span style="color:lemonchiffon">**(not sure about this)**</span> to each other. It's the last day, so
 
 T: 走るしかなかったんですけど。
 
@@ -1562,7 +1592,7 @@ T: That's right. After I finished that run, when we were on the Shinkansen, we p
 
 T: ずっとそのなびで（？）やから滋賀入った途端に、入ったぐらいからこう、
 
-T: I was on the **(something I couldn't catch)** all along, so the moment Shiga came into view, when it roughly entered,
+T: I was on the <span style="color:lemonchiffon">**(something I couldn't catch)**</span> all along, so the moment Shiga came into view, when it roughly entered,
 
 T: 録画を押してずっとこうやって、タイムラプスして。
 
@@ -1594,7 +1624,7 @@ K: That Tobita-kun was born in Hikone.
 
 S: あ、（？couldn't catch）じゃないですか。
 
-S: Ah, aren't you **(something I couldn't catch)**?
+S: Ah, aren't you <span style="color:lemonchiffon">**(something I couldn't catch)**</span>?
 
 T: いや何か飛び出し坊や滋賀で何かちょっと思い出したけど、何か
 
@@ -1602,11 +1632,11 @@ T: No, well, I sort of remember something about Tobidashi Bouya being from Shiga
 
 T: とさったきかん（？）をね。
 
-T: **(couldn't parse this)**
+T: <span style="color:lemonchiffon">**(couldn't parse this)**</span>
 
 S: こうね。
 
-S: Just like this, right? **(Kiyo-san made the dashing pose of the Tobidashi Bouya)**
+S: Just like this, right? <span style="color:lemonchiffon">**(Kiyo-san made the dashing pose of the Tobidashi Bouya)**</span>
 
 K: そうです。こういう。
 
@@ -1622,7 +1652,7 @@ K: Just now, that, by the way, I heard that a friend of my previous hair-and-mak
 
 S: （？）さんですか。すごっ！凄いですね。いるんですねやっぱり、
 
-S: The creator? **(Didn't catch the words, I think this was the meaning)** That's amazing, isn't it? Such a person exists after all,
+S: The creator? <span style="color:lemonchiffon">**(Didn't catch the words, I think this was the meaning)**</span> That's amazing, isn't it? Such a person exists after all,
 
 S: こういう人が作ったという。でもその愛からちゃんと撮ってたんだ。景色をね。
 
@@ -1676,9 +1706,11 @@ S: うん。
 
 S: I see.
 
+### UVERworld's Ability to Do Times Tables
+
 S: 九九が出来ますか。出来ませんよね。
 
-S: Can you do your nine times table? **(What? I did 12, I guess for cultural reasons.)** You can't, can you?
+S: Can you do your nine times table? <span style="color:lemonchiffon">**(What? I did 12, I guess for cultural reasons.)**</span> You can't, can you?
 
 K: ええ。出来ます。
 
@@ -1726,11 +1758,13 @@ S: No, I won't do such things, but, just now, you did take it for me,
 
 S: アップで撮ってほしかった。出来ます。
 
-S: but I wish you did a close-up. 'I can.' **(Kiyo-san was imitating TAKUYA∞'s smug look)**
+S: but I wish you did a close-up. 'I can.' <span style="color:lemonchiffon">**(Kiyo-san was imitating TAKUYA∞'s smug look)**</span>
 
 S: 凄い。あ、そうですか。
 
 S: Incredible. Ah, is that so?
+
+### TAKUYA∞ And Katsuya's Abilities to Take Public Transport
 
 S: 電車に一人で乗れますか。
 
@@ -1746,7 +1780,7 @@ S: I see. You wouldn't take the train, would you?
 
 K: 僕たまにバス乗りますよ。あの揺れが気持ちいい（？）
 
-K: I take the bus occasionally, you know. The shaking **(or vibration, not sure)**  feels good.
+K: I take the bus occasionally, you know. The shaking <span style="color:lemonchiffon">**(or vibration, not sure)**</span>  feels good.
 
 S: わー。敢えて乗ると言うことですか。
 
@@ -1770,7 +1804,7 @@ S: Then, that means that you can take the bus.
 
 K: バスでこの中でうっとり起きてん（？）のが好きですね。
 
-K: I like to absent-mindedly wake up while in the bus. **(The part about absent-mindedly waking up was not too clear to me.)**
+K: I like to absent-mindedly wake up while in the bus. <span style="color:lemonchiffon">**(The part about absent-mindedly waking up was not too clear to me.)**</span>
 
 S: 乗り方も分かるんですよね。
 
@@ -1814,7 +1848,7 @@ K: the people on that bus were sort of going, 'Who's that?'.
 
 K: どうして...全員の目線受けって、わーって思って。
 
-K: What should I... Everyone was looking at me, and I thought, 'Waaa'. **(That's akin to 'Oh no', 'Gosh', etc')**
+K: What should I... Everyone was looking at me, and I thought, 'Waaa'. <span style="color:lemonchiffon">**(That's akin to 'Oh no', 'Gosh', etc')**</span>
 
 K: で、そのバスの運転さんが、
 
@@ -1826,7 +1860,7 @@ K: he probably thought, 'Oh no, I accidentally said it out loud'.
 
 S: あまりにも有難いでしょうね。心の中から出ちゃって。
 
-S: He was probably too grateful **(could have heard wrongly here)**. It came out accidentally from his heart.
+S: He was probably too grateful <span style="color:lemonchiffon">**(could have heard wrongly here)**</span>. It came out accidentally from his heart.
 
 K: 「男祭り行きます。」
 
@@ -1850,7 +1884,7 @@ K: I was embarrassed.
 
 S: それは今、あれだね、路線言うちゃったらちょっと問題になるやつだね。
 
-S: That's, what you just said, it's that, if he announced the route it would be a problem. **('I'm going to the King's Parade.' could be interpreted as an announcement by the bus driver that the bus is heading towards King's Parade, causing confusion.)**
+S: That's, what you just said, it's that, if he announced the route it would be a problem. <span style="color:lemonchiffon">**('I'm going to the King's Parade.' could be interpreted as an announcement by the bus driver that the bus is heading towards King's Parade, causing confusion.)**</span>
 
 S: 凄いですね。
 
@@ -1940,6 +1974,8 @@ K: 優しい、優しい。
 
 K: That's kind of you.
 
+### On Favourite Beef Cuts
+
 S: 優しい！優しい。好きな肉の部位、どうですか。
 
 S: You're kind! 'A cut of beef you like.' What do you think?
@@ -1987,6 +2023,8 @@ S: Guys, it seems that if you comment something three times he'd read it for you
 S: しょうもない質問みんな張り切るでしょう。
 
 S: Seems like everyone is enthusiastic about the pointless questions.
+
+### On Birthday Memories
 
 S: 今年の誕生日の思い出。
 
@@ -2082,7 +2120,7 @@ T: Tokyo Dome was also on my birthday, so, at the time, 1200 people turned up.
 
 K: （？）ロッキーですね。あの後ろだけ増えてくやつですね。
 
-K: That's Rocky, isn't it? **(Sorry, I don't know the reference.)** The guy who keeps increasing behind.
+K: That's Rocky, isn't it? <span style="color:lemonchiffon">**(Sorry, I don't know the reference.)**</span> The guy who keeps increasing behind.
 
 S: あ、増えてくやつだ。
 
@@ -2342,7 +2380,7 @@ K: Congratulations. Yes.
 
 S: そうか。でも男女の壁あるんじゃない、そうしたら？
 
-S: Is that so? But wouldn't there be a wall **(regarding physical performance)** between male and female?
+S: Is that so? But wouldn't there be a wall <span style="color:lemonchiffon">**(regarding physical performance)**</span> between male and female?
 
 T: だから、女性の方は、いや、走るのは夜中なんで、心配なので、
 
@@ -2354,7 +2392,7 @@ S: It's sort of dangerous?
 
 T: そう。そこだけは心配だから止めてつって。
 
-T: That's right. We were worried about just that, so we told them to not participate. **(Takuya you bastard have you seen the crying girls?)**
+T: That's right. We were worried about just that, so we told them to not participate. <span style="color:lemonchiffon">**(Takuya you bastard have you seen the crying girls?)**</span>
 
 S: あ、そうか。それはね、ちょっとね、あれですけど。勿体無いけど。
 
@@ -2386,7 +2424,7 @@ T: I just got this idea from the staff member via eye contact.
 
 K: これはシクピヤ（？）の担当のUVERworldのメンバー。
 
-K: That's the UVERworld member in charge of shikupiya **(Sorry, couldn't catch that. Probably a reference. Some kind of bike, perhaps?)**
+K: That's the UVERworld member in charge of shikupiya <span style="color:lemonchiffon">**(Sorry, couldn't catch that. Probably a reference. Some kind of bike, perhaps?)**</span>
 
 S: 白バイみたいのじゃだめですかね。誘導のやつ。先導というやつ。
 

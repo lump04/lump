@@ -12,7 +12,7 @@ This is the transcription and translation of the [MBS FREE STUDIO talk show](htt
 
 S - MC Kiyozuka Shinya (also known as Kiyo)
 
-T - Takuya∞
+T - TAKUYA∞
 
 K - Katsuya
 
