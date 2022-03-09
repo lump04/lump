@@ -8,6 +8,8 @@ title: FREE STUDIO - Part 2
 
 This is Part 2 of the transcription and translation of the [MBS FREE STUDIO talk show](https://www.mbs.jp/freestudio/) that was streamed live on YouTube on 17th December. The cut-and-edited Japan-only version is no longer available officially but I found some pirated copies floating around.
 
+You can also go to [Part 1]({{ site.baseurl }}/freestudio) or [Part 3]({{ site.baseurl }}/freestudio3).
+
 ## Legend
 
 S - MC Kiyozuka Shinya (also known as Kiyo)

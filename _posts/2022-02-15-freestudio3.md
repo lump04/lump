@@ -10,6 +10,8 @@ This is Part 3 of the transcription and translation of the [MBS FREE STUDIO talk
 
 Because of the length of this talk show, and to avoid confusion, I've reduced the banter with audience, and some musings or extra chatter they tend to have while looking over the questions.
 
+You can go to [Part 1]({{ site.baseurl }}/freestudio) or [Part 2]({{ site.baseurl }}/freestudio2).
+
 ## Legend
 
 S - MC Kiyozuka Shinya (also known as Kiyo)
