@@ -1162,7 +1162,7 @@ S:
 
 選んでいいですか、じゃ、一枚目。じゃどれにしようかな。
 
-Shall I choose the first one then? Then, I wonder which I should chooose.
+Shall I choose the first one then? Then, I wonder which I should choose.
 
 何か色々ありますね。今日ね。
 
@@ -1410,7 +1410,7 @@ which I wonder. What was there?
 
 でも意外とね、すぐ書けるんですよ。
 
-But surprisingly, you know what? I can write it immediately.
+But surprisingly, you know what? I can write them immediately.
 
 すぐ書けるって言うか、
 
@@ -1462,7 +1462,7 @@ That's why, in this respect,
 
 リリースするって言う時間を決めないと、
 
-we have to set a time by whch to release;
+we have to set a time by which to release;
 
 歌詞が変わって行くんですよね。
 
@@ -1594,7 +1594,7 @@ and what's more,
 
 ごめんなさい、みんな生きてんだろうね。これね。
 
-I'm sorry, I hope all of you are still alive, right?
+I'm sorry, I hope all of you <span style="color:lemonchiffon">**(the audience)**</span> are still alive, right?
 
 まあいいや。
 
@@ -1634,7 +1634,7 @@ that may be how you feel about it, but
 
 実はそこだけ切り取ると、超何か物凄い、
 
-in fact if you slice off just this part, it's really, kind of, extemely,
+in fact if you slice off just this part, it's really, kind of, extremely,
 
 「あんな切ないメロディ！哀しい！」ってなる。
 
@@ -1840,7 +1840,7 @@ But I was told by everyone that they could definitely hear me very well,
 
 ちょっと恥ずかしかったです。
 
-so that was quite embarassing.
+so that was quite embarrassing.
 
 K：
 
@@ -2457,7 +2457,7 @@ we do these things, and
 
 でその時に僕、あのランニングする時の、僕は7キロぐらいはしんどいですよ。
 
-so at the time when I was running, I actually struggle at arond the 7km mark.
+so at the time when I was running, I actually struggle at around the 7km mark.
 
 に来ると。その7キロぐらいの時間で、この「PRAYING RUN」を鳴るようにして、
 
@@ -2707,7 +2707,7 @@ T:
 
 「コイツらマジで好き放題」言うって。
 
-'These guys seriously just do as they please,' theh said.
+'These guys seriously just do as they please,' they said.
 
 S:
 
@@ -2737,7 +2737,7 @@ It'll be good to have a tag just like this right? Yes. Guys, think about it, all
 
 ＿＿ベスト3だよ。ベスト3ね。聞きたい。あっ、ま、食べ物とかやっぱ多いね。
 
-The top 3 __, all right? I'd like to ask. Ah, oh, as you's expect, there're lots of food.
+The top 3 __, all right? I'd like to ask. Ah, oh, as you'd expect, there're lots of food.
 
 ね。しょうもない質問のコーナーじゃないからね、これね。
 
@@ -2817,7 +2817,7 @@ T:
 
 そうですね。大根とこんにゃくとかしか食えないっす。おでん。
 
-That's right. I can only eat raddish and konnyaku[^10] in oden.
+That's right. I can only eat radish and konnyaku[^10] in oden.
 
 S:
 
@@ -3381,7 +3381,7 @@ K:
 
 1万人ちょい入るのに、
 
-Even though it can accomodate 10,000 and a bit,
+Even though it can accommodate 10,000 and a bit,
 
 S:
 
@@ -3411,7 +3411,7 @@ I've always wanted to read it. I've always wondered about it.
 
 確かに武道館はね、綺麗ですよね。見るとね。お客さんがサーっと。
 
-It's true that Budouka is pretty, isn't it. If you look, the guests are all spread across.
+It's true that Budoukan is pretty, isn't it. If you look, the guests are all spread across.
 
 K:
 
@@ -3479,7 +3479,7 @@ Well, if we had some interesting things to talk about, then it's a waste though.
 
 3位何か、滋賀の琵琶湖の辺にある、誰も知らないスタジオとか。ね。
 
-For instance, if third place was some studio no one knows about, at the edge of Biwako in Shiga, or something. Right?
+For instance, if third place was some studio no one knows about, at the edge of Lake Biwa in Shiga, or something. Right?
 
 それが出てくるかも分かんないけど。
 
