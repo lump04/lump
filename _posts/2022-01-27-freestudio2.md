@@ -2086,7 +2086,7 @@ T: Ahhh, as of now, that's still confidential, but,
 
 T: でもメンバーが全員で走ってくれるつって。
 
-T: but the other bandmates have said that they're all going to run with me.
+T: but the other band mates have said that they're all going to run with me.
 
 T: それをファンの人達と、あの、
 
@@ -2186,7 +2186,7 @@ T: This year we did it online, and everyone sort of,
 
 T: 一緒に走ってくれるていうのがあって、そこでメンバー、
 
-T: they agreed to run with me, and the other bandmates,
+T: they agreed to run with me, and the other band mates,
 
 T: 去年は僕一人で走ったんですけどメンバーが一緒に走ってくれるつって。
 

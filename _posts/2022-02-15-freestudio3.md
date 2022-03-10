@@ -362,7 +362,7 @@ K: He does it to all the members.
 
 S: じゃ、メンバー以外にも行く場合あるんですね。
 
-S: Then, are there times where you'd do it to those other than your bandmates?
+S: Then, are there times where you'd do it to those other than your band mates?
 
 T: あ、行かないですね。
 
@@ -718,7 +718,7 @@ S: No, well, really, in rock and the like, you unexpectedly can't tell by one lo
 
 S: だけど、本当に緻密に色々訓練したり、
 
-S: Still, you really go into great detail, and practice various things,
+S: Still, you really go into great detail, and practise various things,
 
 S：色々やっていらっしゃるって言うの分かっります。
 
@@ -1120,7 +1120,7 @@ T: and before we left for Tokyo, we really, even if you talked about Shiga or so
 
 T: 地元のコンビニしか知らないんで。
 
-T: we only knew the convenience stores in our hometown, so that's how it was.
+T: we only knew the convenience stores in our home town, so that's how it was.
 
 K: うん、うん。
 
@@ -1418,7 +1418,7 @@ T: On Christmas or something, on Christmas about 15 years ago, I think, um,
 
 T: ダンボールだけが飾る（？）リビングに、
 
-T: in our living room furnished with just cardboards (not sure about 'furnished'),
+T: in our living room furnished with just cardboard (not sure about 'furnished'),
 
 T: そこに大家さんが何かお寿司買ってきてくれて、
 
@@ -2014,7 +2014,7 @@ K: and we completely do not do this song, and we wanted to do it, so,
 
 K: 「克っちゃん練習しといて」って言われて。
 
-K: I was told, 'Kacchan, practice this so we can do it.'
+K: I was told, 'Kacchan, practise this so we can do it.'
 
 K: 俺ピアノほとんどやった事ないので、
 
@@ -2022,7 +2022,7 @@ K: I've almost never played the piano before, so,
 
 K: 「あ、分かった」つってそこからめっちゃ練習して。
 
-K: I said, 'OK, I got it.', and started practicing really hard from there.
+K: I said, 'OK, I got it.', and started practising really hard from there.
 
 S: 絵に書いた...無茶振り。
 
@@ -2434,7 +2434,7 @@ S: Sure enough, you've lost.
 
 K: 結局負けんのか。
 
-K: You're telling me, in the end, I've still lost?
+K: You're telling me, in the end, I still lost?
 
 S: ストレート負けじゃないですか。
 
