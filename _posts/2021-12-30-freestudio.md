@@ -57,7 +57,7 @@ I'm thinking of splitting this talk show into three parts, but this first one ha
 
 1. [TAKUYA∞ and Katsuya's Top 3 Oden Ingredients](#takuya-and-katsuyas-top-3-oden-ingredients)
 
-1. [TAKUYA∞ and Katsuya's Top 3 Concert Venues](#takuyaand-katsuyas-top-3-concert-venues)
+1. [TAKUYA∞ and Katsuya's Top 3 Concert Venues](#takuya-and-katsuyas-top-3-concert-venues)
 
 ## Transcription/Translation
 
