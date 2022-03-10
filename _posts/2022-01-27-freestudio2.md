@@ -444,7 +444,7 @@ T: About what I've come up with, I'd consult Katsuya, generally.
 
 K: で、言うった事と真逆するんですよ。
 
-K: And the, he'd do the opposite of what I say.
+K: And then, he'd do the opposite of what I say.
 
 S: どういう事？
 
@@ -464,7 +464,7 @@ K: should I write a love song, or something that's not, that would be appreciate
 
 K: 迷ってんねん」って。
 
-K: I'm currenlty puzzling over this,' he said.
+K: I'm currently puzzling over this,' he said.
 
 K: 「あ、でも一回恋愛聞いてみたいな」って言うて、
 
@@ -810,7 +810,7 @@ T: If it doesn't exist, he makes it for me.
 
 S: 再現もして。
 
-S: He even reporoduces sounds?
+S: He even reproduces sounds?
 
 T: 再現出来るんですよ。だからその中宇宙のような何かよく分からへん音とかも、
 
@@ -862,7 +862,7 @@ S: it's as many as the Milky Way <span style="color:lemonchiffon">**(not sure bu
 
 S: 一生掛かっても無理です。で、それの中で、どこにそれがあるかなっていうのも、
 
-S: even if you spend you whole lifetime. Then, within these, where the one you're looking for is, is also,
+S: even if you spend your whole lifetime. Then, within these, where the one you're looking for is, is also,
 
 S: 本当に片っ端からさらう（？）というのね。
 
@@ -870,7 +870,7 @@ S: you really have to look through them from the start.
 
 K: だからもうアルバム、今回もだいぶやりましたよ。
 
-K: So in this album, I quite a lot of it this time too.
+K: So in this album, I did quite a lot of it this time too.
 
 S: それで、早い話、その、それじゃないなっという時あるわけ。
 
@@ -1094,7 +1094,7 @@ K: And also, the first time I bought a ridiculously expensive guitar, immediatel
 
 K: 始めてすぐ、全然お金ない時に、で、買ったって言ったら、
 
-K: Soon after we started, when we didn't have any money at all, then, when I said he bought it,
+K: Soon after we started, when we didn't have any money at all, then, when I said I bought it,
 
 K: あの、練習終わったたびに、ちゃんと拭いてくれるんでですよ。
 
@@ -1236,7 +1236,7 @@ S: スタッフ全員でこれも違うんだろう？いいだろう、褒め�
 
 S: The staff are also all saying, isn't that wrong? It's fine isn't it? To praise them? It doesn't matter.
 
-Lost more of the stream here.
+<span style="color:lemonchiffon">**(Lost more of the stream here.)**</span>
 
 T: あの、早いんですよ。これから来そうなものを取り入れて、
 
@@ -2094,7 +2094,7 @@ T: And with the fans, um,
 
 T: 僕毎年誕生日の日だけにファンと走るのOKしてるんですよ。
 
-T: every year, just on my birthday, I agree to let fans fan with me.
+T: every year, just on my birthday, I agree to let fans run with me.
 
 T: あ、すみません。僕毎日走るんですけど、それで、その、
 
@@ -2166,7 +2166,7 @@ T: They said, 'Who is the organiser?' No one organised this. It's not that I cal
 
 T: OKって言うの上で、後場所も言うわないんですよ、走る場所。
 
-T: I just said it's fine, and also, I didn't even state the locaton, you know, the place I ran at.
+T: I just said it's fine, and also, I didn't even state the location, you know, the place I ran at.
 
 S: でも分かるね。
 
