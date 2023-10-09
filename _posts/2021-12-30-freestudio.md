@@ -173,9 +173,9 @@ Would there be such a thing? (Laughs)
 
 S:
 
-猥褻が気に入らないで。（笑）
+挨拶が気に入らないで。（笑）
 
-Since they're not interested in obscenity. (Laughs)
+If they're not interested in formalities. (Laughs)
 
 じゃ、お呼びいたしましょう。いいですか。
 
